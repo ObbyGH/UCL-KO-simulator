@@ -14,6 +14,7 @@ Event order:
 
 Potential future updates:
 - Show team stats at the end (e.g. top 5 highest scoring teams).
+- tracking teams' paths to the final.
 - a visual display for the bracket.
 - a reset function.
 
